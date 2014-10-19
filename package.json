@@ -1,11 +1,11 @@
 {
-  "name": "rpi-gpio",
+  "name": "cubieboard-gpio",
   "version": "0.5.0",
-  "description": "Control Raspberry Pi GPIO pins with node.js",
-  "main": "rpi-gpio.js",
+  "description": "Control Cubieboard GPIO pins with node.js",
+  "main": "cubieboard-gpio.js",
   "keywords:": [
-    "raspberry",
-    "pi",
+    "cubieboard",
+    "cubie",
     "gpio"
   ],
   "directories": {
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JamesBarwell/rpi-gpio.js.git"
+    "url": "https://github.com/popsodav/cubieboard-gpio.js.git"
   },
   "author": "James Barwell <jb@jamesbarwell.co.uk>",
   "license": "MIT",
